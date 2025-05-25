@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 package Principal;
 
 import Modelos.Cancion;
 import Modelos.Favoritos;
+=======
+import Modelos.Cancion;
+>>>>>>> a099923c779887c7b487931b57980d7924190d86
 import Modelos.Posdcast;
 
 public class Main {
@@ -21,6 +25,7 @@ public class Main {
         post1.setDuracion(3600);
         post1.setRelator("GOTH");
         post1.setTema("videoJuegos");
+<<<<<<< HEAD
 
         for (int i = 0; i < 100 ; i++) {
             cancion1.meGusta();
@@ -40,6 +45,8 @@ public class Main {
 
 
 
+=======
+>>>>>>> a099923c779887c7b487931b57980d7924190d86
         
 
 

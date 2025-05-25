@@ -1,6 +1,7 @@
 package Modelos;
 
 public class Audio {
+<<<<<<< HEAD
     private String titulo;
     private int duracion;
     private int totalDeReproducciones;
@@ -54,4 +55,6 @@ public class Audio {
     public void setClasificacion(int clasificacion) {
         this.clasificacion = clasificacion;
     }
+=======
+>>>>>>> a099923c779887c7b487931b57980d7924190d86
 }

@@ -1,5 +1,6 @@
 package Modelos;
 
+<<<<<<< HEAD
 public class Posdcast extends Audio{
     private String relator;
     private String tema;
@@ -30,4 +31,7 @@ public class Posdcast extends Audio{
     public void setTema(String tema) {
         this.tema = tema;
     }
+=======
+public class Posdcast {
+>>>>>>> a099923c779887c7b487931b57980d7924190d86
 }

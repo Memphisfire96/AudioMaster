@@ -1,6 +1,7 @@
 package Modelos;
 
 public class Favoritos {
+<<<<<<< HEAD
     public void agregaNuevoAudio(Audio audio){
         if (audio.getClasificacion() >= 8){
             System.out.println(" Es uno de los favoritos del momento");
@@ -9,4 +10,6 @@ public class Favoritos {
 
         }
     }
+=======
+>>>>>>> a099923c779887c7b487931b57980d7924190d86
 }

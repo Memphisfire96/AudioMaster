@@ -1,5 +1,6 @@
 package Modelos;
 
+<<<<<<< HEAD
 public class Cancion extends Audio{
     private String artista;
     private String album;
@@ -41,4 +42,7 @@ public class Cancion extends Audio{
     }
 
 
+=======
+public class Cancion {
+>>>>>>> a099923c779887c7b487931b57980d7924190d86
 }
